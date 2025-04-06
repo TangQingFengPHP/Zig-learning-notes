@@ -1,0 +1,22 @@
+# Zig build output
+zig-out/
+zig-cache/
+
+# Editor and OS generated files
+.DS_Store
+Thumbs.db
+
+# VS Code settings (optional)
+.vscode/
+
+# Vim/NeoVim swap files
+*.swp
+*.swo
+
+# Emacs files
+*~
+
+# Backup files
+*.bak
+*.tmp
+
